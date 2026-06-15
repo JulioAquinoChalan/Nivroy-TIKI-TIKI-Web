@@ -26512,7 +26512,7 @@ var $async$auN=A.I(function(a,b){if(a===1)return A.E(b,r)
 for(;;)switch(s){case 0:if($.X==null)A.axl()
 $.X.toString
 s=2
-return A.q($.az6().vE(".env"),$async$auN)
+return A.q($.az6().vE("env"),$async$auN)
 case 2:if($.X==null)A.axl()
 q=$.X
 q.toString
